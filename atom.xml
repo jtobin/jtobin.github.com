@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[blog.jtobin.ca]]></title>
+  <title><![CDATA[Particularly Lazy Evaluation]]></title>
   <link href="http://jtobin.github.com/atom.xml" rel="self"/>
   <link href="http://jtobin.github.com/"/>
-  <updated>2012-11-25T17:44:10+08:00</updated>
+  <updated>2012-11-26T05:59:00+08:00</updated>
   <id>http://jtobin.github.com/</id>
   <author>
     <name><![CDATA[Jared Tobin]]></name>
