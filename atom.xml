@@ -4,7 +4,7 @@
   <title><![CDATA[blog.jtobin.ca]]></title>
   <link href="http://jtobin.github.com/atom.xml" rel="self"/>
   <link href="http://jtobin.github.com/"/>
-  <updated>2012-11-25T17:31:11+08:00</updated>
+  <updated>2012-11-25T17:38:05+08:00</updated>
   <id>http://jtobin.github.com/</id>
   <author>
     <name><![CDATA[Jared Tobin]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://jtobin.github.com/blog/2012/11/25/hello-world/"/>
+    <updated>2012-11-25T17:36:00+08:00</updated>
+    <id>http://jtobin.github.com/blog/2012/11/25/hello-world</id>
+    <content type="html"><![CDATA[<p>And we&#8217;re live!</p>
+]]></content>
+  </entry>
   
 </feed>
